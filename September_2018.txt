@@ -1,0 +1,71 @@
+3-9-18
+Even though I planned to finish the controllers today, unfortunatelly I faced the realization that I had imported data wrongly. Another time where not being fully aware of what exactly the data means has created an issue. Saddly, I have to go back and change the migration script, replicate the database and generally rework the whole thing from step 1. The plan is to add the total and nhej count of each experiment on the miseq experienet table, update each well experiment with it's counts seperately while also keeping track of the totals, in order to update the whole experiment at the end. Unfortunatelly I was not able to finish this process because I had to leave early due to feeling sick.
+
+4-9-18
+Sick leave
+
+5-9-18
+Continued working on the same project, but progress is slow due to the long time needed to replicate the db and rerun all the necessary processes. Making the changes needed is more challenging than expected. The logic is there so its just a matter of working it out. I decided to store the totals in a hash that holds the miseq ids as keys. The respective value of those keys is the sum of the counts. Quite buggy as a process. In the meantime I had to work on another ticket comming in as well, which delayed the process even more.
+
+6-9-18
+Sick leave
+
+7-9-18
+Sick leave
+
+10-9-18
+Finished the migration script which was the goal for the day. It takes a long time for it to finish so hopefully everything runs smoothly. Before running it I made sure to test it on a smaller scale and everythign seems in order. I am a bit concerned that the way I addressed the issue of going through all the miseq experiments to update their counts is a bit hacky, but it should be fine for now. 
+
+11-9-18
+Today is the Tableau Desktop Accelerated course. It last for three days. Hopefully by the end of that period I will be familiar with visualizing data using the tool. That should be a great help towards my machine learning project later on down the line.
+
+12-9-18
+Tableau Desktop Accelerated course
+
+13-9-18
+Tableau Desktop Accelerated course
+
+14-9-18
+Last day before my holiday. My ultimate goal would be to finish working on the controllers, so that I could leave only testing for after I return.
+Details regarding where I am standing right before leaving:
+After replicating the database and rerunning the updated migration script, data seems to be at the right place now. I started looking around at all the changes I have made in the past in the controllers to make sure that everything still works as intended. I think it would be useful at this point to list all those changes and comment on each, in order to have a refference point when I get back from my holiday.
+
+- lib/LIMS2/Model/Util/Miseq.pm -> 
+this is where the generate data function is. Seems to be working properly. Basically the changes I have made in the past here refer to how a summary of the data within the selected Miseq run is being produced. At the moment, it seems to be working fine. The numbers seems to be comming up as expected. All the counts seem to be in place. But I still need to fix the issue with producing the numbers needed for the visualization of the summary on the wells, and this is where this draws its data from, so there is something wrong either on this side of things or the other.(user/pointMut)
+
+- lib/LIMS2/WebApp/Controller/API/PointMutation.pm ->
+This is where the frequency data is being manipulated. None of the changes made in the last update of the migration script affected anything here. This has to do with how the data is being shown when a user presses on a specific well. Grabs the frequency table entries, works out the percentage, shows the image. None of these where really affected, but I will have to keep an eye to make sure that I am not missing something. Seems fine for now, unit testing will solve any unidentyfied conflicts.
+
+
+ 
+ lib/LIMS2/WebApp/Controller/User/PointMutation.pm 
+
+17-9-18
+Holiday
+
+18-9-18
+Holiday
+
+19-9-18
+Holiday
+
+20-9-18
+Holiday
+
+21-9-18
+Holiday
+
+24-9-18
+Holiday
+
+25-9-18
+Holiday
+
+26-9-18
+Holiday
+
+27-9-18
+Holiday
+
+28-9-18
+Holiday

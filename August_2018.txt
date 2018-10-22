@@ -1,0 +1,74 @@
+1-8-18
+David and I had a talk and he explained to me the importance of testing. Also he asked me to make sure that my script is modular and reusable. 
+As a result, I went back to my migration script and started working making it comply to his request.
+
+2-8-18
+HTP meeting
+David read through my script and made a few pointers. Pete gave me tips on how to make my code more efficient. I kept reworking my orinal script all day today to make sure that I make the most out of their suggestions.
+
+3-8-18
+Joel took some time today to help me out. He showed me quite a few nice ways to ensure taht the script is working efficiently, including a command hash which really helped my script's reuseability. I feel like I have come such a long way this week regarding my ability to write code that not only works, but also is proffessional.
+
+6-8-18
+Today is finally the day I replicated my database and debugged the migration script after I applied all the changes to it. Everything was done by the end of the day. I am very happy with the result. This is for sure my best piece of code this far. Tomorrow I will get back to working on the controllers.
+
+7-8-18
+IGM
+After chatting with my team members, the suggested I take a look at POD. POD is a scripting language that is used to create documentation. I decided to take some time from working on the controllers to focus on understanding it. Also I decided I should write proper documentation for my migration script. Even though it began as a one off script, after reworking it, most of it ended up becoming part of the lims2 libary. Therefore, it needs to be properly documented. 
+
+8-8-18
+Finished the POD and had time to get back to working on the controllers. Data is being displayed nicely when pressing a specific well, without many bugs. Still lots of controllers that need to be changed, but I have come a long way. The most important takeaway so far this week is how much I feel like I have learn regarding proffessionalism and writing code that others could potentially work on in the future. I can say I very proud of my results with the migration script. 
+
+9-8-18
+Peters last day before holiday. I worked all day on my controllers and I am very confident that work is progressing just fine. Peter explained to me how to run Crispresso. Tomorrow we are expecting the results of the latest run and I will have to make sure to run them and upload them on the webapp. After being taught what everything means and how to do it, I am confident I will be able to fullfill the task.
+
+10-8-18
+Peters first day off. Miseq run results were available on basespace. David asked if he could help me and suggested we should do it together since it would be my first time attempting the project. That was a good idea since it proved much more troublesome as a task as it was expected to be. The CSVs provided by the scientists are not coherent, and it was rather difficult for me to format them properly, since I am not fully understanding what much of the terminology means. For example the same element was named barcode on one csv and range on another, which to me was not clear it was the same thing. Furthermore, $PATH was not properly set up for me to run CRISPRESSO which also proved to be a challenge until we figured out what was wrong. By the end of the day, even though we did not manage to finish the job, I was able to understand how everything revolving the process works. Also I gained a much better understanding on the biology behind the task.
+
+13-8-18
+David finished moving the files and explained to me how he solved the issues we faced on Friday. That was extremelly helpful for me. He asked me to run crispresso on the files, which again, proved more challenging than expected. 
+
+14-8-18
+Finished the task successfully. I am now quite confindent I could do the whole process on my own when needed. Had to run the frameshift calculator on the data and I did not face any dificulties. Everything went great today and I even had time to get back to my controller work for my migration project.  
+
+15-8-18
+Furthermore we received a request to redo the process because a few errors appeared. Apparently the CSVs that we were sent held a few wrong values. This time I was able to get through the task on my own without any issues. That was very rewarding after struggling so much to understand how stuff works.
+
+16-8-18
+HTP meeting today. More miseq work needed. I havent had any time to work on my script latelly, but at least I am learning a lot. I have also been reading a lot about the biology side of things. 
+
+17-8-18
+David gave me a chapter from a book he wrote explaining everything works. How the proteins are contructed, dna and rna sequences and the way mutations happen. That was excellent for me. I think I have a pretty good understanding by now regarding the work being done at the institute. 
+
+20-8-18
+Pete is back from holiday. Another request for a miseq run. CSV is again formated in a different manner. With Peters help the process went very smoothly and the job was finished very quickly. Had plenty of time to work on my migration script
+
+21-8-18
+IGM
+Work on the controllers is going great. I am moving fast without facing too many issues.
+
+22-8-18
+Still working on the controllers. Today something amazing happened. I rewrote a controller method from scratch, around 100 lines of code, and it run without any issues on the first try. This is highly unusual and I am pretty sure it is never goign to happen again. Nevertheless, it shows that at this point I am used to perl.
+
+23-8-18
+HTP meeting
+Meeting without David, since he is on holiday. Everyone from the team explained what we have been working on while the scientists introduced a new starter to what we are doing. That was quite helpful for me as well since even though I am not new to the system anymore, I could use some breaking down and explaing on the science side of things. 
+
+24-8-18
+Working on the controllers. I have faced a bit of a brick wall today. Cannot work out how to efficiently do certain things. I think I might re-write a few methods.  
+
+27-8-18
+After changing stuff around and re writting a few methods I have finally achieved to drop the time required to run open the miseq runs by around 70%. This is excellent. This is such a nice feeling knowing I achieved to do that. Getting the data in the database in the first place, and then reading it from there rather than the local file system, indeed makes such a great difference. Still more reading will have to be done from the db instead of the files, so the speed is bount to increase even more.
+
+28-8-18
+This is the first time that I face a situation where I am properly blocked. I cannot find what is wrong all day. I am completelly unable to understand how to work out a set of data (total counts of reads) and no matter how I do it, it always end up being wrong. I had to stop trying by 14:00 because after pushing myself too much to solve it, I ended up getting more confused about the meaning behind the data. For the rest of the day I read a book on DNA and. In general I used the rest of the day for personal development.
+
+29-8-18
+Second day attempting to solve the same issue. I am starting to realize what is wrong. I had to go back and rework a few stuff. By the end of the day, even though I did achieve to make my code cleaner and nicer, the original issue is still not fixed.
+
+30-8-18
+HTP meeting today. Interesting one. It is very nice to see how our team handles the user requests and generally how us and the scientists work together to achieve the best outcome. 
+Regarding my work on migrating the data and fixing the controllers that handle that data, I am still completelly stuck. So, more looking around, more searching.
+
+31-8-18
+Today, I decided to ask for help with my issue, since I cannot seem to be able to find a solution on my own. I asked Pete to have a look. I talked him through my script. He said he that it seems alright. Explaining it helped me a lot and by the end of the day I felt very confindent that I found out what's wrong. Plan is to have everything finished by Monday. I am very disappointed by how slowly my work has been progressing lately. I realize that the task is dificult but still I would expect to be able to move a bit faster.

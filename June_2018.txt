@@ -1,26 +1,25 @@
-4-8-18
+4-6-18
 
 First day today. I was introduced to the rest of the team and my workspace. My line manager Peter took me through my equipment and helped me set everything up.
 
 
-5-8-18
-
+5-6-18
 Spent as much time as possible with the rest of the team, getting to know them. Everyone made me feel welcome and part of the team. 
 
 
-6-8-18
+6-6-18
 
 Spent time with Peter and David, the team manager, in the restaurant where they explained to me the hierarchy of the teams that work within the company. That was very helpful since it gave me a more whole understanding of the way the production and decision process takes place within Sanger.
 
 
-7-8-18
-
+7-6-18
+HTP meeting
 All my equipment is now set up. Peter introduced me to a series of tutorials which would help me familiarise myself with the tools need for the job. My first task was to finish a bash tutorial. Eventhough I had a basic knowledge of bash being asked to do the tutorial was great because it made me feel more comfortable. Working on a mac computer for the first time was also a challenge for me and I appreciated taking 1 day getting familiar with that and bash before moving forward. Attended Machine learning in large-scale single cell genomics talk in the campus, by Professor Fabian Theis.
 
 
-8-8-18
+8-6-18
 
-Final day of my first week as a software developer placement student. Today I had my 1:1 with my line manager. He gave me feedback regarding my performance during the week. He mentioned that he thinks I am integrating into the workplace quite fast. I talked about my side of things and my views and expectations towards the future. Key points discussed:
+Final day of my first week as a software development placement student. Today I had my 1:1 with my line manager Peter. He gave me feedback regarding my performance during the week. He mentioned that he thinks I am integrating into the workplace quite fast. I talked about my side of things and my views and expectations towards the future. Key points discussed:
 -My feelings regarding the first week and my performance
 -Their feelings regarding the first week and my performance
 -Making the most out of the placement year
@@ -28,27 +27,26 @@ Final day of my first week as a software developer placement student. Today I ha
 -Technical skills needed and best way to aquire them 
 
 
-11-8-18
+11-6-18
 
-This week is Bike week on campus, therefore I came to work by bike and attended several events taking place along with other members of my team. It was great working on team building and also meeting other employees outside of our office.
+This week is Bike week on campus, therefore I came to work by bike and attended several events taking place along with other members of my team. It was great working on team building and also meeting other employees outside of our office. I have started working on tutorials to familiarise myself with all the tools I will be needing. Namely today I am working on a vim tutorial. It is very different to what I am used to working on, but I am sure I will be able to get used to it soon.
 
-12-8-18
+12-6-18
 
+Peter asked me to mess around all day with vim and make myself comfortable with it. I am sure it is going to be very helpful in the long run for me. I was also introduced to to tmux. This is a tool that works alongside my xterm and effectivelly allows me to work on seperate terminals on the same window. Also, it makes sure that as long as i dont exit my sessions, I will always be able to pick up my work where I left off. It is quite difficult to map my brain around all the new keybindings all these new tools need, but spending time to mess around with them today is surely going to help a lot
 
-13-8-18
+13-6-18
+I have created a cheatsheet for myself for all the new tools I will be using. Vim, bash and tmux. This way I can go back to it instead of looking back at the tutorials I followed. Furthermore, I started on Perl today. Interesting day. I think I learned a lot.
 
-
-14-8-18
-
+14-6-18
+HTP meeting
 Today we attended a seminar called Visualization of Biological Data for Research and outreach by prof. Sean O'Donoghue. It was very informative and helped me gain a better understanding of the biology aspect of my new job. Seeing how the visualization of the data is performed was also very interesting and made me consider if I could follow a similar path with my machine learning project later on.
 
-15-8-18
+15-6-18
+Farm course all day. Submiting jobs on the farm is a rather interesting concept and I am very confindent that I will be able to do it after taking the course. It was a lot of information to process but I am sure that once faced with a tast that requires me to submit jobs to the farm, I will not have an issue to do it, using the documentation I was provided with from the course.
 
-Farm course
-
-
-18-8-18
-
+18-6-18
+Working on my Perl and making sure I have documented everthing I need on my cheat sheet. I am very pleased with how my first few days are going. I think I have already learned so much. I am sure I am now ready to take up my first project.
 1:1 DiNA
 -Settling in within the team looks to be going fine
 -Pleased with my progress so far
@@ -58,35 +56,34 @@ Farm course
 -Where does the company expect me to be 2 months from now 
 
 
-19-8-18
-
-Book Moving Day
-
-
-20-8-18
+19-6-18
+Today I had to Book a Moving Day, since I will be moving to a new accomodation on the 21st of this month. That was an interesting process for me. I had to learn my ways around coreHR, helix and the other online platforms of the institute. Furthermore, Peter assigned me a project. I have to create a dropdown menu on our webapp. When pressed, it would display 2 options for the two different pipelines offered. According to the selected option the whole interface should change. I had a very interesting chat with Peter about possible ways of doing that. I thought that I was able to explain my thgouth process and get very good feedback on the way I see things and what I consider important. For the first time I had to take speed and efficiency of data handling under consideration.
 
 
-21-8-18
+20-6-18
+Peter explained to me that our system is a clasic example of model view controller architecture. Eventhough I had read about said architecture before, I decided I should take up on his advice and dig a bit deeper on the matter in order to fully understand how the system works. My task was refering to the view. I had to read about template toolkit which is a language I had to use for the task. I also had to use html. Even though I was comfortable with using html in the past, using it here along with injections of other languages was a challenge. 
 
+21-6-18
 Moving Day
 
-22-8-18
+22-6-18
+I finished the task today, but soon after Peter explained to me that the specs had changed in the HTP meeting yesterday. I would have to redo the changes, but this time I would also have to change the back end. I would have to create database entries for the two pipelines and assign each to their respective jobs. That measns I would have to mess with the controllers as well. I am pretty excited because I think that this project will be more challenging.
 
 
-25-8-18
+25-6-18
 
-Learning Objectives
+1:1 with Peter regarding Learning Objectives. Very interesting and helpfull speaking about what I want and what my employers want from me with someone that is experienced in the industry. I am absolutely sure that this kind of experience is going to be critical when I will be looking for a job after uni. Gaining experience as a software developer is rapidly changing my expectations and the way I look at things and prepare myself for the future.
+Work on my project is going great. I am moving way faster than I would expect. My knowledge of SQL is surely helping me in this project.
 
+26-6-18
+Still working on the project. PSQL is very close to pure SQL but still needs some effort and research on my part
 
-26-8-18
+27-6-18
+Asked David, the other placement student, for pointers on dealing with an issue I have been unable to deal on my own. Everyone is very extremelly helpfull. I am really enjoying my time here this far. I feel like I am learning increadibly fast here. Peter is sitting right next to me and he is literally making sure I get the most out of my time here. 
 
+28-6-18
+Eventhough I understand the concept of controllers and how they take care of how things work and how data is handled, I am still unable to understand exactly how I will have to work to make everything work. Perl is also still challenging for me since hashes are new to me. 
 
-27-8-18
-
-
-28-8-18
-
-
-29-8-18
-
+29-6-18
+Spend the whole day teaching myself bash commands like grep that would help me with my project. Also spend time looking at other methods that appear to be operating in a similar manner to what I am trying to do. This time spent is very important for me to ensure that I reach the point where I become familiar with both the language and the system as soon as possible.
 
