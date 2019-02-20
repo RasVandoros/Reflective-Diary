@@ -1,0 +1,66 @@
+1
+2 I finally managed to get the data to show properly. My project seems to be working properly. Couldnt be prouder. I showed Peter and he was also very happy with the results. On Monday I will have to make a clean rerun of the whole thing and make sure all the scripts are working as intended.
+
+
+5
+Cleaned up a bit, replicated my database and run everything from scratch. Everything looks in order. My data seem to have gone through as intended. The view is also working properly. I have finally finished with the functionality of the my migration project. Very fulfilling. Lots of work still to be done. I am very excited to test the results and see how much of an impovement this change is compared to the way data is handled on the live version.
+
+
+6
+Finally, after so many hours of work, I finally have my first working commit on the migration project. Couldnt be prouder. So much more work yet to be done, but today, I can be proud with my result. I have been testing and documenting the difference in speed compared to the live model. On bigger datasets, the time needed to open a Miseq has decreased by as much as 80%. Increadible feeling looking at the results.
+
+7
+I am working on putting down a plan regarding the work that needs to be done before this project is finally ready to be submitted for review. That includes firstly merging devel into my branch, working out all the conflicts first. After that is done, I will have to go back and change the way the image files are being handled according to the specification changes requested by David. Setting up the plan and following through with it is a great learning experience.
+
+8
+Started working on the merge. I have never done that in the past so it is challenging. Peter talked me through the process and I was able to produce good results through the day.
+
+9
+Finished working on the conflicts. Now all thats left is running hte tests and fixing any issues comming up there. This is challenging. I am not comforatable with the process yet. I have gone through this in the past, but it has been long since and I cannot fully remember how to do it. Therefore it's a slow process at the moment in order to make sure that I have the correct environment set up. Debugging tests is also not in my comfort zone.
+
+12
+Today is Beth's first day at the office. She is a joining the team as a placement student, as a Bioinformatician. Her line manager will be Joel. Peter, Joel, Beth and me, went to a nearby pub to have lunch and welcome her in the team.
+
+13
+Having someone in the office who is less experienced than me is very interesting. I have tried to find the time and talk to Beth, helping her as much as i can adjust smoothly to the new environment. She has been learning Python so I was able to give her a few pointers. We had a discussion regarding the difficulties of settling in a company and the hardships of learning, with a focus on object oriented programming. I also spent time with Peter, helping him prepare his presentation for ARU on Friday. I had to think about my own speach too. I tried thinking about what I would have liked to know when I was the one receiving the same presentation one year ago.
+
+14
+Worked from home, as I have been feeling a bit under the weather and I needed to make sure that I dont get sick and miss Friday's ARU presentation. Mainly worked university stuff. Working from home is a great benefit but sadly, many operations are way more difficult than they should be, since everything needs to be set up again. Nevertheless, I managed to get enough work done today. Caught up with all the paperwork that ARU is requesting and also learned a lot about d3, a library I will have to use in order to achieve my next task.
+
+15
+Spent the day working on tests. I have merged my branch with devel and after resolving conflicts, I am now trying to run the tests and fix all the issues at hand. Way more challenging than expected. But, its a learning process and I am sure i will be a much better proffessional by the time I get it right. David has stressed the importance of testing a lot, so I am more than happy to spend time learning how to follow up on it properly. I also run Miseq. Busy day.
+
+16
+Today we visited ARU. David started things off with a lecture regarding design patterns. He talked about multiple patterns, including MVC, which is the main one we use for our systems, itterator and factory. It was a very informative lecture and I learned a lot. It was particullarly helpful for me that he was using examples from our own system, since I am familiar with it and I was able to make the most out of the information provided. David also emphasised the importance of reading a book called Design Patterns, by the Gang of Four. I put it in my reading list and ill make sure to read it as soon as possible. 
+Peter took the stand after the lecture was over, to present the job opportunity Sanger is offering to the students. It was a very interesting process to get through that same talk from both sides of the table. One year ago, I was in the same room receiving the same talk. This time, being part of the team that gives that talk I was able to see how, certain students, depending on their body language and general participation made themselves better/worse canditates. Another interesting thing that happened, is that I had to take part in the presentation, by talking about my experience in the company. This was my first attempt of public speaking and presentations on a proffessional level. My preparation came in handy and I think that I managed to get a good enough result. I aimed towards making sure that I get my point across, while avoiding stumbling too much or looking down instead of the audience. I received good feedback from Peter and David. Cristina (senior lecturer and placement tutor) and Sarah (placement administrator from ARU) also gave me very possitive feedback. After, the presentation, I grabbed lunch with Peter and then worked from home for the rest of the day, since I was feeling unwell.
+
+
+19
+I was feeling much better when I woke up, so I decided to go to work. Unfortunately, I was feeling worse and worse as the day went by and mainly because I felt like I was making other people in the office uncomfortable, I decided to leave early. On my way back home I ended up having to wait in the rain for more than an hour, that surely didnt help my case. The lesson here is to always be extra careful with illnesses, making sure that I dont end up making other people uncomfortable around me. It's a mistake in this case to be overjealous and try to come back to work early.
+
+20
+Sick leave
+
+21
+Sick leave
+
+22 
+Working from home today. I am feeling much better than the previous days, but I would rather play it safe and stay one extra day at home, rather than risk getting sick again. I think this illness has tought me the importance of not pushing myself too much to get back to work as soon as possible, as it can often backfire.
+
+23
+Spent time talking with Beth and helping her as much as I can
+
+26
+I was assigned a new project by Peter. This a ticket pick up from Gareth, one of the lab scientists. He requested that we change the way a certain menu is, and instead of making it only show the last 10 entries, make it so it shows every one of the elements. Even though the task is fairly easy to complete, it is perfect for me as it wil offer me a bit more experience working on the view. 
+
+27
+Project was finished within the day. I learned quite a few things on the way, such as better use of classes and ids for css. I created a pull request and tomorrow hopefully I will be deploying the changes.
+
+28
+Having cleared every other task except for my main one, the database migration task, today it is time to get back to it. Currently, I have achieved a working state, where all the required functionality is implemented. However, David proposed that it would be great if I could eliminate the BYTEA image entries from the database, and instead of loading images, create them on the view, as graphs. This task is both challenging and interesting and will require digging much deeper into how javascript, jquery, html and css work. To begin, I decided that it would be ideal if I could merge my branch with devel and run tests, to get rid of any confilcts before moving forward. Many issues occured during that process, proving that it was necessary before moving forward.
+
+29
+I spent all day today solving the conflicts.
+
+30
+Peter helped me out today and I finally solved all the merging issues. Apparently the problem derived from merging with Janas last deploy. Certain values had to be added to the test scripts. I find it very uncomfortable whenever I have to mess with other people's projects. I feel unsure about what exactly is the expected behaviour, what is polite and what is allowed.

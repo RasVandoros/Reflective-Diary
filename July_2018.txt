@@ -3,7 +3,7 @@ Finished working on my project. Everything looks great. I feel like I have learn
 
 3-7-18
 
-Mech is challenging to say the list. The documentation is unclear so I decided to start looking around at other tests and try to learn by immitating. That seemed to be working much better. By the end of the day I realized that by changing the controllers I changed to make my Pipeline 1 and Pipeline 2 changes work, I messed up quite a few pre-existent methods. 
+Mech is challenging to say the least. The documentation is unclear so I decided to start looking around at other tests and try to learn by immitating. That seemed to be working much better. By the end of the day I realized that by changing the controllers I changed to make my Pipeline 1 and Pipeline 2 changes work, I messed up quite a few pre-existent methods. 
 
 4-7-18
 
@@ -60,9 +60,9 @@ quant file done
 Reloading cache and running the final run
 
 23-7-18
- CONTROLLERS
+CONTROLLERS
 24-7-18
- COCONTROLLERS
+COCONTROLLERS
 25-7-18
 CONTROLLERS
 26-7-18

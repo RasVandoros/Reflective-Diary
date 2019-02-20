@@ -13,6 +13,9 @@ Today I worked on design details regarding the project, along with further testi
 5-10-18
 Peter went through my code before we could push everything to live. He only had minor stylistic things to suggest. Thats great, because it means that my code is solid enough for a proffessional enviroment. Obviously I have a long way to go until I get actually good, but I am quite happy with my progress this far. After making the fixes Pete suggested, I went back to working on the migration project.
 
+
+
+
 8-10-18
 David suggested that it would be nice to have the pngs diagrams in LIMS2 stored as coordinates and then draw them live, instead of storing them as raw data in the database. That means that a big part of my migration project needs to be reworked. Sounds interesting to work on this. I am excited to take it up. In the meantime tho, the specs for the project I finished on Friday have also changed. The new specs require a lot of work on the controller parts. It is also bount to interfere a lot with my migration project, so at some point I will have to work out how to merge the two together.
 
@@ -27,6 +30,8 @@ Finished the project today. Even fixed a few bugs that are present in live. That
 
 12-10-18
 Dominique, the scientist who requested for the Miseq_044 to be run, visited the office today. Saddly, Peter was off sick today, while David and Jana were on annual leave. I tried my best to understand the issue but my biology is still not on par with the requirements of the job. It felt awful and made me realize how important it is for me to spend time teaching myself biology. I am fairly confident at this point that I would like to pursuit a career on bioinformatics which makes the need to learn biology even bigger. Therefore, I spent the day today looking up books and courses that could assist me with this task. I also had a very interesting conversation with Joel on the subject. He helped me a lot. He suggested a few books and courses and also  suggested that the in his opinion the best route into bioinformatics, would be to get a job on the field right after uni, and a few years down the line, go for a masters, part time, while working. For the remainder of the day, I read 2 chapters from a book called Bioinformatics and Functional Genomics, by Jonathan Pevsner.
+
+
 
 15-10-18
 I was stressed over the incident with Dominique, but after talking with Peter I realized that there was not much I could have done in this scenario. However, I think that after 4 months, I shoulda have had a stronger understanding of the biology involved and also a better insight of the data I work with. That realization is something I will need to focus on in the future. Try to work harder to get to the level I believe I could be. The whole incident was only good for me in the long term since it made me start putting in extra work again, reading books and doing online courses during my free time.
@@ -43,15 +48,29 @@ I have been giving a lot of thought lately to next year. I would really like it 
 19-10-18
 Today I finally managed to finished the min max project I took up. Everything appears to be working fine after testing it. Submited a pull request on github and I am now waiting for feedback from Peter. After work we went for a drink with the group. This has been a great week for me in terms of productivity. My confidence has been growing a lot.
 
+
+
 22-10-18
 While waiting for the code review, I went back and tried to pick up my migration project. As always this is such a challenge. This time I feel more confident about it, since the project I just finished helped me get a better understanding of javascript and generally of the view. Also, I met with David and asked him about potential job oportunities for next year. Even though he said that there is nothing at the moment, he told me that he would put me in contact with other people who might be able to help me. I asked him about 
 
 23-10-18
+Code review came in. Great feedback received from Peter regarding my code. I have been getting cleaner and I am very pleased with my progress. Still, there were changes to be made to bring my work up to industry standards. 
+
 24-10-18
+Finished working on the changes suggested by Pete on the code review, and commited the final version. Now I will have to wait until I can finally merge it to the live webapp. Im very pleased that I have a finished project, hopefully this is going to be proven helpful for the users. I have gained so much confidence working on this project. Now I feel ready to face my migration project. I think the biggest reason why it has been delayed that much is mainly the fact that I have been afraid to properly tackle it. 
+
 25-10-18
+HTP meeting today. Interesting and informative as always. I ve been able to progressively become more and more involved in the meetings. For the rest of the day I went hard on the migration project. It seems so much simpler now with all the added experience I have aquired. 
+
 26-10-18
+Miseq run finished. It's an easy process for me run Miseq. I have done it enough times to not have issues doing it. I had to speak with one of the scientists, Gareth, regarding some issues and for the first time I could hold my own in the discussion and be able to help him. Spend the rest of the day working on my migration project.
 
 
 29-10-18
+I am able to understand the view side of the project so much better. I am capable of identifying bugs that I couldnt in the past. It's so interesting to observe how much my skillset has changed over the past 2 months. Working on the other projects and taking time to reflect uppon my own work. 
+
 30-10-18
+I am getting very close to making everything works at this point. I know what has been wrong all this time. It was an issue of inputting data in a wrong format and resetting variables that shouldnt be reseted, resulting in faulty/missing data.
+
 31-10-18
+All day working on fixing the issues I have identified. I think I can finally see the light at the end of the tunnel. At the same time, it is a bit depressing that I am still not able to get there. This project has been so challenging. I dont think I ever had to work on something that long term in the past. At the very least, it is a great growing experience. 

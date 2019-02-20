@@ -24,7 +24,7 @@ Final day of my first week as a software development placement student. Today I 
 -Their feelings regarding the first week and my performance
 -Making the most out of the placement year
 -Settling in within the team and working as part of a group
--Technical skills needed and best way to aquire them 
+-Technical skills needed and best way to acquire them 
 
 
 11-6-18
@@ -57,7 +57,7 @@ Working on my Perl and making sure I have documented everthing I need on my chea
 
 
 19-6-18
-Today I had to Book a Moving Day, since I will be moving to a new accomodation on the 21st of this month. That was an interesting process for me. I had to learn my ways around coreHR, helix and the other online platforms of the institute. Furthermore, Peter assigned me a project. I have to create a dropdown menu on our webapp. When pressed, it would display 2 options for the two different pipelines offered. According to the selected option the whole interface should change. I had a very interesting chat with Peter about possible ways of doing that. I thought that I was able to explain my thgouth process and get very good feedback on the way I see things and what I consider important. For the first time I had to take speed and efficiency of data handling under consideration.
+Today I had to book a moving day, since I will be moving to a new accomodation on the 21st of this month. That was an interesting process for me. I had to learn my ways around coreHR, helix and the other online platforms of the institute. Furthermore, Peter assigned me a project. I have to create a dropdown menu on our webapp. When pressed, it would display 2 options for the two different pipelines offered. According to the selected option the whole interface should change. I had a very interesting chat with Peter about possible ways of doing that. I was able to explain my thought process and get very good feedback on the way I see things and what I consider important. For the first time I had to take speed and efficiency of data handling under consideration.
 
 
 20-6-18
