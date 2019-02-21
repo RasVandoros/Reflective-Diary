@@ -1,51 +1,162 @@
-1
-
-4
-CVs
-
-5
-CVs
-
-6
-CVs
-
-7
-CVs
-
-8
-Interviews
+1-2-19
+Next week the hiring process for the placement opportunity for Anglia Ruskin University students will be initiated. That means that I will to dedicate most of my time towards preparing for the interviews next Friday. 
+Therefore, I spent all day doing as much as possible on finishing the update script I have been working on. 
+Looking at it at the end of the day I am confident I will be able to finish it over the upcoming week even through all the placement work.
 
 
+4-2-19
+The CVs and cover letters from the 10 applicants for the next year's placement have arrived. That means that through this week me and Pete will have to go through them and keep notes, in preparation for the interviews on Friday. 
+At the same time, I will have to finish my migration project. It has to be ready for review by next week. 
+I am very excited to be able to experience the process from the other side. I know its going to be invaluable towards my own upcoming jobhunt, given my contract is ending on the 4th of June. 
+Given how busy this week is going to be, I will not be writing entries daily and instead I will write a long entry next Monday after it is all said and done, detailing my thoughts on the process.
 
-11
-Pull Request
-Roundup with David and Peter
+5-2-19
+Interview preparation and migration project work
 
-12
-ML
+6-2-19
+Interview preparation and migration project work
 
-13
-ML
+7-2-19
+Interview preparation and migration project work
 
-14
-ML
+8-2-19
+Spent all day at Anglia Ruskin University conducting interviews alongside David and Peter. Incredible learning experience, but also way more tiring than expected. 
 
-15
+
+11-2-19
+During the morning hours, I patched up the final details of my migration project and finally sent it through to be reviewed. Hopefully everything will be fine and I can finally deploy into staging. From there it should need a fair bit of testing before it goes to live. 
+Nevertheless, I am proud of getting to this point. Time has gone by fast, summer is coming soon and so is the end of my contract. Looking back, I feel like I have learned and developed a lot. 
+
+During the afternoon I had a meeting with David and Peter, following on the interviews we conducted on Friday. At this point I would like to list a few of the comments I have on the process of selecting which applicant was the best fit for the job.
+-Unconscious bias is a thing and it must be avoided at all times/situations during the hiring process.
+-CVs and cover letters don't matter too much. They are mostly there to get you in the interview.
+-The things that matter more on the CV, are different compared to what I thought matters before experiencing the hiring process from the side of the employer. For example, with students, if two applicants both had great interviews, I do not thing one would get the edge because he had prior work experience as a softie. Customer assist jobs would be almost equally beneficial towards their chances. Basically a good CV can be defined as a CV with the least amount of red flags. Also, ideally a good CV has something that makes the candidate stand out, like a hobby or a grade on a particular assignment or ideally the link to an impressive github repository.
+-Outside of uni projects is the most important thing probably, either in the form of online courses or ideally actually coding. In the future, I need to make sure to do more and also document them properly.
+-It is important to make sure that the CV and CL does fit the job you are applying for. For example, do not say computer technician 2 times in one sentence if you are applying for a software job. It makes you look like you got the wrong email.
+-Have a professional email. elRasMataz@hotmail.com-like emails look just silly.
+-Be formal in you email communications. Nobody ever lost points for playing it safe.
+-Research the people you are addressing. LinkedIn is ideal for this. They can see you looked them up and that works in your favor.
+-Put your name out there in any possible way. Contact through email to ask for extra info if you need to. No need to force it, but if possible do it. Above point on LinkedIn applies here.
+-Choosing between two applicants that both did great is just hard. There is no set way of picking and at that point I think it mostly comes down to what kind of skill-set the company is looking for. For example if someone specializes a bit more on back end or front end, if the company wants to focus on developing the candidate or if the aim is to get someone who will hit the ground running. In that case there is not much control that the applicants can have on that. Therefore, the verdict is, nobody is perfect for every job and I should not ever be get down on myself for not landing every job I interview for. Getting a job looks like a combo of good preparation for the interview, ability to showcase you skills in the coding test and finally, good timing.
+-Good grammar can go a long way
+-Cover letters are the least important bit probably. Same as the CV, mainly used to tick of a few boxes. Show passion, show that you were willing to do the research for the company or even the team. Be formal, but not too formal if possible. Design patters, agile, scrum, version control, test driven development, unit testing are great keywords to work in.
+-Don't waste to much space for anything particular. Its cool to have worked as CA somewhere, but I don't think anyone wants to read 200 words on that. Work in a few keywords, ideally tailor it according to the job posting.
+-Avoid looking cocky on the Cover letter but still dont forget to make yourself desirable. 
+-Don't be boring. If there is nothing special in the cover letter, it will just be lost in the pile.
+-Being likeable, open, willing to guide your own interview is important. 
+-Taking criticism and showing a willing to learn attitude is even more important.
+-Smiling and being humble is also good. Obviously you need to show that you are good in an interview but it is important not to be cocky, because that makes you unlikable. There was one occasion where an applicant just assumed what I was going to ask and talked on top of me answering the wrong question. It is safe to say that this does not create the best impression. 
+-If I could give any of the applicants a bit of last minute advice that would be to smile, listen to what you are being told, make conversation, be curious and have fun with it. It's a learning experience at the end of the day.
+-If I could give any of the applicants a bit of general advice that would be to tailor their CV and CL for each specific job and most importantly, study the coding test before the interview to come up with more stuff to talk about.
+
+
+12-2-19
+Now that my project is done in a way, I can finally move to machine learning. My plan is to spend this week doing courses again, trying to put myself in a the best possible situation in front of the task ahead of me.
+Sadly, service desk still hasn't fixed my issue with openstack.
+13-2-19
+Machine learning
+
+14-2-19
+Machine learning
+Today I found a way to gain access to the virtual machine that the previous placement student used for his ML project. Service desk still hasn't fixed the issue but I asked Beth to let me enable it using her account. 
+On one hand I am quite happy to finally be able to start the project, but on the other hand, I couldn't be any more stressed and worried about it given how little time I have left to work on it. David last year too 5+ months working on it full time. 
+I have less than 4 months left and I am not even done with my other projects. 
+Migration project still needs to be reviewed and deployed and the same applies for the min-max project. Miseq runs are still my responsibility and I have a few meetings with Katie lined up to gather user requirements.
+
+15-2-19
 Holiday
 
 
 
-18
-Lims2 meeting with Katie
+18-2-19
+Lims2 meeting with Katie at 11. Used my time in the morning to prepare for the meeting. 
+This is in order to get the user requirements for a new project. I studied how to approach the task and came up with a system. 
+However, the actual meeting was not that easy to navigate. There is a gap in understanding between us and the lab mainly due to my and Beth's lack of Biology knowledge.
+Therefore, we spent the biggest part of the meeting talking with Katie, trying to understand exactly what kind of work is being at the lab. For me, it has always been meaningless data, that connect to each other through the database relationships. 
+I thought it was very interesting learning exactly what the data means and how its produced, however after going through with it we are still nowhere close being able to create the ticket regarding the upcoming project. 
+We still don't understand what is needed and for that reason we decided to set up another meeting to follow up on the discussion we had. 
+Also, we decided to set up a meeting at the lab, where we could shadow one of the scientist while one of the experiments is conducted in order for us to gain an insight on what the data we handle represent.
 
-19
-1:1 Peter
+Later in the afternoon, Beth and I had a meeting with David, to catch on the meeting we had with Katie. We explained to him how the meeting went and he gave us feedback on the way we handled it. 
+He insisted we ask as many questions as possible and then explained to us more about how Pipeline I works. 
 
-20
-21
-22
+19-2-19
+Today I had the 1:1 with my manager Peter. I asked for this meeting to officially discuss my machine learning project. 
+After analyzing the requirements and going a bit through the process of following the guide David, the placement student from last year wrote for his project, I am having concerns regarding the feasibility of my project.
+David's project was to create a supervised learning analysis of crispr cuts, in collaboration with Andrew Basset, one of the lab scientists. My project, is to make any alterations on Davids work I see appropriate in order to achieve more accurate/reliable predictions. 
+Following that, I would have to also create an unsupervised learning model and see what kind of results that could produce. Finally, I would have to compare the outcome produced from the two approaches. 
+However, last years project took 5 months. Judging by the fact there are only 3 and half months on my contract and I have not yet started working on this project, I am having serious concerns regarding how possible it is to finish in time. This is what the meeting with Pete revolved around. 
+Even though I have not received any official concerns regarding the time I took to finish the database migration project I felt that it would be best if I filled Peter in with a log of the events of the past year. Here is a log of my work over the months I have been at the Sanger:
 
-25
-26
-27
-28
+Database migration project
+-handling images as BYTEA
+-refactoring to plot the graphs instead
+User Requirements from Katie
+Gathered guide efficiency calculation data for Andrew in response to two seperate tickets
+Crispresso submission Range as two columns project
+Scroll-able list project ticket
+Crispresso Submission Help project
+Well name to index bug fix
+Navbar changes project
+ 
+Code reviewed pull requests from other developers
+
+Completing miseq runs
+
+Machine Learning Courses(2)
+Algebra module from open university
+
+Admin Work for University
+-Reflective Diary
+-Skill Acquisition forms
+
+Took part in the interview process:
+-CV and CL screening
+-Examining coding tests
+-Interviewing
+-Assisting with the final decision making process
+
+Undertook the following courses:
+FARM
+Assertiveness
+Tableau
+Managing Stress and building resilience
+Essential Communication Skills
+
+Unfortunately, the migration project has taken longer to finish due to a set of reasons including:
+-The nature of the database migration project (data importation takes time especially when needed to be performed multiple times)
+-Requirement changes requests that needed refactoring of big parts of the project
+-Added requirements in order to enable a smooth integration of newly added miseq data
+-Multiple merging conflicts.
+
+My intention for submitting all this data to my manager is to receive constructive criticism in regards to my career this far in the company. His response indicated that he is happy with the way I have been handling stuff for the past 7 months. 
+He is positive that the ML project will be finished in time and also assured me that I would have full access to it after my contract ends in order to keep working on it. 
+Furthermore, we wenth through the ML guide from David together and tried figuring out the missing parts. That helped a lot as we realized that David was working on two separate models, not only one, something that I had not managed to understand yet and was often leading to confusion.
+
+Today, me and Beth had a meeting with David senior and Mampta, a bioinformatician who had worked on the Pipeline I system, where they explained to us how the system works and how it compares with Pipeline II. 
+
+
+20-2-19
+Working on ML all day today. Going through the work that the previous placement student produced. At this point I have managed to understand the first part of his work. He is processing the data in order to prepare it for the neural network. He appears to have created 2 models.
+One classification and one Regression model. The data processing seems to prepare data for each of the two models separately. The next step, is putting the data through the neural network, however at this point Python is used. 
+Even though I do have a degree of familiarity with Python, I am definitely not good enough to grasp exactly what the scripts are aiming to do fast. Patience is required at this stage, in order to work through it, until I manage to get the results I need from it. 
+
+21-2-19
+Today I spent all morning explaining how my migration project works to Beth. She will try working on testing scripts for it. Later, we had the HTP meeting and since David and Joel were off, more responsibility fell on Pete, Beth and I. 
+Many subjects were discussed and it seems like there are lots of new projects in line for LIMS2. After the meeting I had to run Miseq 58 through crispresso. While waiting for the results I had a bit of free time, which I used to reflect uppon the interviews process.
+I will list bellow some more notes I have regarding mostly the preparation of the canditates. 
+-Work on opensource projects.
+-Get a Raspberry Pi and have a go at it
+-AWS is a thing
+-Docker is a thing
+
+
+TIL:
+RTL is an acronym for register transfer level. This implies that your VHDL code describes how data is transformed as it is passed from register to register. The transforming of the data is performed by the combinational logic that exists between the registers.
+
+22-2-19
+
+25-2-19
+26-2-19
+27-2-19
+28-2-19

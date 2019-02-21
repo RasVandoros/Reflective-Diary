@@ -1,23 +1,47 @@
 2
+Finalizing work
+
 3
+Fully working commit
+
 4
 
 7
+Cleaning up, taking unused subs out
 8
+Took indel graph table out of the up.sql script
 9
+Cleaned up and created pods
 10
+Empty experiments handling
+
 11
+Empty experiments handling
 
 14
+Empty experiments handling
+
 15
+Empty experiments handling
+
 16
 17
+Merged with crispr_highlighting
+
 18
+Cleaned up
 
 21
+Merge red_12507_db_migration
+
 22
+Lims2-Scripts
 23
+Lims2-Scripts
+
 24
+Lims2-Scripts
+
 25
 Work from home
 
@@ -28,6 +52,7 @@ Holiday
 Holiday
 
 30
+Lims2-Scripts
 
 31
-
+Lims2-Scripts
