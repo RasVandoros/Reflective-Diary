@@ -54,7 +54,7 @@ During the afternoon I had a meeting with David and Peter, following on the inte
 Now that my project is done in a way, I can finally move to machine learning. My plan is to spend this week doing courses again, trying to put myself in a the best possible situation in front of the task ahead of me.
 Sadly, service desk still hasn't fixed my issue with openstack.
 13-2-19
-Machine learning
+Machine learning courses, since I still dont have access to openstack.
 
 14-2-19
 Machine learning
@@ -98,7 +98,7 @@ Scroll-able list project ticket
 Crispresso Submission Help project
 Well name to index bug fix
 Navbar changes project
- 
+H 
 Code reviewed pull requests from other developers
 
 Completing miseq runs
@@ -155,8 +155,35 @@ TIL:
 RTL is an acronym for register transfer level. This implies that your VHDL code describes how data is transformed as it is passed from register to register. The transforming of the data is performed by the combinational logic that exists between the registers.
 
 22-2-19
+Today I had to finish the Miseq run I started yesterday afternoon, since there were some issues that didnt allow it to go through properly. My pull request review was finished and I could finally start the deployment process. 
+Beth and Peter has also stuff to deploy today, so today was an extremely busy day trying to work everything out and make sure we create a mess by making a huge deployment on Friday. During the process I had to work in collaboration with the other developers of the group.
+I think that we have a good understanding and things went mostly smooth. The only issue was that we did not manage to finish the process and the work is left for Monday, which I will be working from home. That means that it will have to be pushed back until Tuesday which is a nuisance.
+But, better go slow and steady in this one, rather than rush things. 
+On another note, the miseq run was finished successfully. Kind of an interesting one. There were a few subtle mistakes in the csv provided by the lab that resulted in a few reruns until I managed to sort it out. 
+Im happy to know the process well enough at this point tho where i can work my way around issues.
+David came over today and assisted with deployment, giving out helpfull tips about github. 
+There is lots of tickets at the moment waiting to be dealt with and he suggested I should take a few hours every day to deal with some of them. 
+At this point I am almost 100% convinced that the Machine Learning is not going to be finished in time. Over the course of this month I have only managed to work on it for 1 day and 1 half day. 
+The time left in my contract is already 2 months less than how long last years placement student took for his ML project, and David has already made clear I will not be getting any extra time. 
+I am not entirely sure whether the expections of me when I joined where higher than what I ended up achieving and that is why the ML project is being overlooked, or whether I did not understand the job advertisemnt properly. 
+No matter what the case is, I am very disappointed with not having the time to focus on it, since it was the main goal I had comming into this placement.
 
 25-2-19
+Worked from home
+Fixed tests
+Admin Work
+Miseq run work
+
 26-2-19
+Deployed to staging
+
 27-2-19
+Staging done 
+Bug fix
+Deployed live
+
 28-2-19
+Came in early to finish deployment
+HTP meeting finalized naming format
+Picked up a ticket to import Phred quality into the db
+Started working on ML again

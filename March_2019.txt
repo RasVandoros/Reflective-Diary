@@ -1,0 +1,31 @@
+01-03-2019
+Ticket from Gareth regarding specific wells not showing data. 
+Miseq run.
+Lots of presure today. My project is live and as expected there are issues. They need to be dealt with now, otherwise they are going to be in the way of the labs work.
+I am enjoying the pressure a lot tho and apparently I am quite capable of working in such conditions. I found the bug and sorted it out within a few hours.
+
+04-03-2019
+Ticket from Gareth regarding experiments not going through properly from the latest run.
+Ticket from Gareth regarding the graphs being off all over the system
+That one was a bigger bug. Basically the whole system was projecting wrong data. David almost proposed we roll back the deployment. 
+However with Pete's help the bug was found within hours and the system was fixed.
+Lots of pressure, but again, I have to say I am enjoying the past few days a lot.
+
+05-03-2019
+Gareth asked for 0 bar on graph to be red and graphs to show percentage rather than actual numbers.
+I managed to work through this one today. Its done and its waiting to be deployed on the next sprint. This week has been very productive.
+
+06-03-2019
+Pete put out a ticket in regards to importing a few more data to the database. That is relevant to my migration project and since I feel like I will probably have to go back to it again over the next week(new user requirements/bugs), I decided to pick the ticket up and try to deal with it fast.
+
+07-03-2019
+Working on importing quality data, its more complicated than expected since the reference sequence is also needed. 
+Had to go back and import that too.
+David came by and we discussed about the ML project. After consulting with Andrew too, he suggested we use the data imported to the database on my migration project and build an unsupervised model that works for that dataset.
+That is a great development since I can avoid going through the ML project of the previous placement student, which was a big challenge this far.
+
+08-03-2019
+Done with quality
+David suggested that he might be able to offer me a short contract at the end of my 1 year, if I need some extra time with ML.
+This week has been increadibly productive and him suggesting that was increadible. I am more motivated than ever to tackle my new project starting Monday.
+I am all done with every other project I have had and I can finally be 100% commited to the ML project.
