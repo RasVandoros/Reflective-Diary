@@ -1,57 +1,139 @@
-3
-My pull request has been approved, so today I swapped back to the mini project I finished at the start of the week, in order to deploy. The same issues that I just yesterday fixed for my main branch came up while merging. This time I knew how to deal with them, however during merging with the staging repository, my terminal bugged and that ended up with me accidentally deleting one of my configuration files. Unfortunatelly, I had to spend the whole day chasing the bug that cause the issue, and fixing my environment. 
+﻿3-12-2019
+
+My pull request has been approved, so today I swapped back to the mini project I finished at the start of the week, in order to deploy. The same issues that I just yesterday fixed for my main branch came up while merging. This time I knew how to deal with them, however during merging with the staging repository, my terminal bugged and that ended up with me accidentally deleting one of my configuration files. Unfortunately, I had to spend the whole day chasing the bug that cause the issue, and fixing my environment. 
 
 
-4
-Today I finally managed to deploy my mini project. After it went live, I started reading about the D3 library. This is what I will have to use in order to plot the graphs. I also made a plan, on how exactly I am going to tackle the issue. In the past, I have never been the kind of person to spend much time planning ahead and creating goals and mini steps towards a project. However, with the experience I have aquired working here, I feel that without a set plan. Working on big projects feels pointless and tends to be very chaotic. Therefore, I allocated the time to make a simple plan towards the goal. Specifically, I designed the graph on paper, so that i can always know exactly what the final product I am aiming for is. Also, the plan has the following steps:
+
+4-12-2019
+
+Today I finally managed to deploy my mini project. After it went live, I started reading about the D3 library. This is what I will have to use in order to plot the graphs. I also made a plan, on how exactly I am going to tackle the issue. In the past, I have never been the kind of person to spend much time planning ahead and creating goals and mini steps towards a project. However, with the experience I have acquired working here, I feel that without a set plan. Working on big projects feels pointless and tends to be very chaotic. Therefore, I allocated the time to make a simple plan towards the goal. Specifically, I designed the graph on paper, so that i can always know exactly what the final product I am aiming for is. Also, the plan has the following steps:
 -import the data in the controller
 -grab the data on the view
 -learn how to use d3
 -plot a graph of random data
--alocate my data to the graph
+-pass data to the graph
 -make the labels
 -clean up and finalise
 
-5
-Murrays Chrismas lunch with Pete and David. Very nice team building experience. David is very busy and we dont spend too much time with him in a relaxed out of work environment. Had a great time and great chat.
+
+
+5-12-2019
+
+Murrays Christmas lunch with Pete and David. Very nice team building experience. David is very busy and we don't spend too much time with him in a relaxed out of work environment. Had a great time and great chat.
 
 Spend the rest of the day working on importing the data to the stash.
 
-6
+
+
+6-12-2019
+
 Worked on data importing for graphs
 
-7
+
+
+7-12-2019
+
 Worked on data importing for graphs
 
 
-10
-Workeddata importing for graphs
 
-11
+
+
+
+
+
+
+
+
+10-12-2019
+
+Worked on data importing for graphs
+
+
+
+11-12-2019
+
 Sanger Day
 
-12
+
+
+12-12-2019
+
 Lab Christmas Lunch at 8 bells
-13 
+
+
+
+13-12-2019
+
 Work from Home
 Christmas Lunch at Jamies
 
-14
+
+
+14-12-2019
+
 Data import for graphs
 
 
-17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17-12-2019
+
 ML meeting with Andrew
 
-18
+
+
+18-12-2019
+
 Working on graph
 
-19
-Peter 1 to 1 d3 and finished proj
+
+
+19-12-2019
+
+Peter 1 to 1 d3 and finished project
 Finished work
 
-20
+
+
+20-12-2019
+
 David suggestions
 
-21
-Last day, Andrew data, cripr import to db
+
+
+21-12-2019
+
+Last day, Andrew data, crispr import to database

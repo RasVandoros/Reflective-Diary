@@ -1,0 +1,192 @@
+﻿1-4-19
+
+I think I will work on self organizing maps as part of my Machine Learning project. I would like to see what I could find out about my dataset using them.
+
+
+
+2-4-19
+
+Career Planning Seminar.
+
+Learned a lot about how to handle my career and plan ahead. 
+Created a plan for the next 2 years of my career and thought about the means to achieve my goals.
+
+
+
+3-4-19
+
+SOMS
+
+
+
+4-4-19
+
+SOMS
+
+
+
+5-4-19
+
+SOMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8-4-19
+
+After working on SOMS for a few days I have come up with a model showing patterns within the data. For the following few days I will try to create models using multiple algorithms including:
+-K-means clustering
+-Hierarchical Clustering
+-t-SNE clustering
+-DBSCAN Clustering
+
+Today I will start my work with K-means clustering.
+
+
+
+9-4-19
+
+K-means clustering
+
+
+
+10-4-19
+
+Hierarchical Clustering
+
+
+
+11-4-19
+
+Hierarchical Clustering
+
+
+
+12-4-19
+
+Wrapping up my models created this far. I have been able to produce some resuts using K-means clustering and Hierchical Clustering. It would be wise if I could contact the lab and have a chat about my results. Next week I am planning to move to t-SNE Clustering and DBSCAN Clustering.
+
+
+
+15-4-19
+
+t-SNE clustering
+
+
+
+16-4-19
+
+t-SNE clustering
+
+
+
+17-4-19
+
+DBSCAN Clustering
+
+
+
+18-4-19
+
+Introduction to Powerful Presentations seminar on campus.
+Maybe the best seminar I have attended. Had to create a presentation beforehand. Presented to the rest of the group, on camera and then received feedback. 
+
+19-4-19
+
+Bank holiday
+
+
+
+22-4-19
+
+Bank Holiday
+
+
+
+23-4-19
+
+Datasets and hyper-parameter tuning for the models I created over the past few weeks. Had  to clean up my data and introduce a few ideas to normalize things a bit.
+
+
+
+24-4-19
+
+Datasets and hyper-parameter tuning
+
+
+
+25-4-19
+
+Datasets and hyper-parameter tuning
+
+
+
+26-4-19
+
+Datasets and hyper-parameter tuning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29-4-19
+
+Datasets and hyper-parameter tuning
+
+
+
+30-4-19
+
+Wrapping up datasets preparing for presentation
+

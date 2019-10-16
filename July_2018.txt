@@ -1,76 +1,205 @@
-2-7-18
-Finished working on my project. Everything looks great. I feel like I have learned so much about software architecture through this project. Furthermore I feel like my perl is coming along greatly. I am pretty sure I am as comforable with perl as I am with C++ and Python. Peter showed me how we create unit tests and also how to run all the other tests we have to run for our scripts. I started reading about a libary called Mech that would allow me to test properly.
+﻿2-7-18
+Finished working on my project. Everything looks great. I feel like I have learned so much about software architecture through this project. Furthermore I feel like my Perl is coming along greatly. I am pretty sure I am as comfortable with Perl as I am with C++ and Python. Peter showed me how we create unit tests and also how to run all the other tests we have to run for our scripts. I started reading about a library called Mech that would allow me to test properly.
+
+
 
 3-7-18
 
-Mech is challenging to say the least. The documentation is unclear so I decided to start looking around at other tests and try to learn by immitating. That seemed to be working much better. By the end of the day I realized that by changing the controllers I changed to make my Pipeline 1 and Pipeline 2 changes work, I messed up quite a few pre-existent methods. 
+Mech is challenging to say the least. The documentation is unclear so I decided to start looking around at other tests and try to learn by imitating. That seemed to be working much better. By the end of the day I realized that by changing the controllers I changed to make my Pipeline 1 and Pipeline 2 changes work, I messed up quite a few pre-existent methods. 
+
+
 
 4-7-18
 
 Working on my unit tests all day today. Work is progressing, but there is a lot of it to be done.
 
+
+
 5-7-18
 
-Still working on the unit tests. I am beging to realise what I have been doing wrong mostly. Great learning process. This project has truly taken me through most phases of development. I had to write scripts for the view using languages like html, the backend using languages like psql, the controllers using perl and finally test everything using unit tests along with prewriten scripts. I familiarised my self with so many diferenent stuff this month.
+Still working on the unit tests. I am beginning to realise what I have been doing wrong mostly. Great learning process. This project has truly taken me through most phases of development. I had to write scripts for the view using languages like html, the back-end using languages like psql, the controllers using Perl and finally test everything using unit tests along with pre-writen scripts. I familiarised my self with so many different stuff this month.
+
+
 
 6-7-18
 
 Today I finished testing. I have to say, I am very proud of how far I have come over the last month. Very rewarding feeling finally deploying.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 9-7-18
-  MIGRATION SCRIPT
-Peter introduced me to my new project. This will be a major one and I could not be more excited. The project is to migrate the data from the warehouse, into the database, and then modify the system to be able to work using the imported data, rather than the ones from the local files. After finishing my previous project I am very confident in my ability with perl, and therefore my ability to complete this task. Firstly, I focused on spliting the project in sub tasks. The three core ones, where:
+
+Peter introduced me to my new project. This will be a major one and I could not be more excited. The project is to migrate the data from the warehouse, into the database, and then modify the system to be able to work using the imported data, rather than the ones from the local files. After finishing my previous project I am very confident in my ability with Perl, and therefore my ability to complete this task. Firstly, I focused on spliting the project in sub tasks. The three core ones, where:
 -Create the new database tables and columns
 -Move the data
 -Change the controllers
-
 Moving the data can also be broken down to:
 -Extracting the path to all the files 
 -Parsing that path and extracting the needed information from that path
 -Handling the quantification file
 -Handling the indel distribution graph image file
--Handling the alleles frequenct table file
-
+-Handling the alleles frequency table file
 After creating the plan of action, I also finished the first step of creating the database entries, where the imported data would be placed. Very productive day today. I achieved more than planned. I feel like I have a good understanding of the issue already.
 
 10-7-18
-Peter is very busy so I asked David for help with using the DBIX libary. He was increadibly helpful. He provided me a pdf presenation that solved all my problems. We also chatted a lot. I talked to him about my thoughts looking at the future and my voiced my concerns regarding my age and how that could potentially affect my career negatively. He provided very helpful feedback and helped me identify ways I could counteract that issue. He also appointed me to Ed, with whome I arranged a meeting to further discuss my concerns. By the end of the day I was fully capable of using the DBIx class. 
+Peter is very busy so I asked David for help with using the DBIX library. He was incredibly helpful. He provided me a pdf presentation that solved all my problems. We also chatted a lot. I talked to him about my thoughts looking at the future and my voiced my concerns regarding my age and how that could potentially affect my career negatively. He provided very helpful feedback and helped me identify ways I could counteract that issue. He also appointed me to Ed, with whom I arranged a meeting to further discuss my concerns. By the end of the day I was fully capable of using the DBIx class. 
+
 11-7-18
-Joel showed me how to use regex to parse the paths to extract the needed info. I was struggling to understand the online documentation but it only took him 2 minutes to get me to understand. The speed at which I am learning here is just increadible. He also showed me how to inject bash to find the paths themselves and store them in a text file. I thought it was very interesting how my tendency was to make the whole script one thing, whereas the right way to do it was in steps. Namelly, the script that find the paths took such a long time to finish and therefore it had to be seperate and to be run once, before running the actual migration script. That way while debugging I could just not use said paths without having to find them every time.
+Joel showed me how to use regex to parse the paths to extract the needed info. I was struggling to understand the online documentation but it only took him 2 minutes to get me to understand. The speed at which I am learning here is just incredible. He also showed me how to inject bash to find the paths themselves and store them in a text file. I thought it was very interesting how my tendency was to make the whole script one thing, whereas the right way to do it was in steps. Namely, the script that find the paths took such a long time to finish and therefore it had to be separate and to be run once, before running the actual migration script. That way while debugging I could just not use said paths without having to find them every time.
 
 12-7-18
 Still working on the script today. Another interesting realization I made today was how helpful it is to recreate the issue at hands on a smaller scale and then work on that instead of the actual issue. The path I have to work on at the moment are more than 100000 and therefore I cannot tell if everything is working as intended without creating a smaller scale version of the whole thing and testing on that. To do that I created a set of directories with the same hierarchy as warehouse and run my path extracting script on that. 
 
 13-7-18
-Paths are extracted and saved in a text file. I have the grep command set up and I am able to extract all the needed data. But now is the most interesting bit. Slowly but surely I have been able to work my way through the data and extract the needed information. Many things are still unclear to me at the moment. What should I do when DBIx doesnt find what its lookig for based on the data extracted from the paths? Do we create or not? I had to make assumptions at that point and move forward, until I have a more clear view of the situation when I would be able to ask Peter a question that makes sense.
+Paths are extracted and saved in a text file. I have the grep command set up and I am able to extract all the needed data. But now is the most interesting bit. Slowly but surely I have been able to work my way through the data and extract the needed information. Many things are still unclear to me at the moment. What should I do when DBIx doesn't find what its looking for based on the data extracted from the paths? Do we create or not? I had to make assumptions at that point and move forward, until I have a more clear view of the situation when I would be able to ask Peter a question that makes sense.
 
 16-7-18
+
 Finished the first step. Getting the data from the database that reffer to the miseq well experiment. That is what the path links to. Very good progress made. Peter told me that I need to indeed create miseq well experiments in some cases. I managed to add the functionality within the day.
+
+
 
 17-7-18
 alleles frequency table done
 
+
+
 18-7-18
 image manipulation done. 
+
+
 
 19-7-18
 quant file done
 
+
+
 20-7-18
 Reloading cache and running the final run
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 23-7-18
 CONTROLLERS
+
+
+
 24-7-18
 COCONTROLLERS
+
+
+
 25-7-18
 CONTROLLERS
+
+
+
 26-7-18
 CONTROLLERS
+
+
+
 27-7-18
 CONTROLLERS
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 30-7-18
 CONTROLLERS
+
+
+
 31-7-18
 CONTROLLERS

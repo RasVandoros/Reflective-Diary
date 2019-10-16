@@ -1,58 +1,197 @@
-2
-Finalizing work
+﻿2-1-2019
 
-3
-Fully working commit
+Finalizing work with the migration project. Hopefully it is going to be ready for deployment soon.
 
-4
 
-7
-Cleaning up, taking unused subs out
-8
-Took indel graph table out of the up.sql script
-9
-Cleaned up and created pods
-10
+
+3-1-2019
+
+Fully working commit. Project is now fully working. Bug fixes still to be made but it is usable.
+
+
+
+4-1-2019
+
+Testing on the latest version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7-1-2019
+
+Cleaning up, taking unused subroutines out
+
+
+
+8-1-2019
+
+Took indel graph table out of the upsql script
+
+
+
+9-1-2019
+
+Cleaned up and created pod documentation for the newly created scripts
+
+
+
+10-1-2019
+
+While searching through the project for bugs I found out that there is an issue with empty experiments handling. When empty experiments exist, the system should not be breaking, but rather it should be able to handle it. Ideally then new experiments should not show up at all and a message should inform the devs about the existence of blank experiments on the console. This way it should be better for both the users and the developers.
+
+
+11-1-2019
+
 Empty experiments handling
 
-11
+
+
+14-1-2019
+
 Empty experiments handling
 
-14
+
+
+15-1-2019
+
 Empty experiments handling
 
-15
+
+
+16-1-2019
+
 Empty experiments handling
 
-16
-17
-Merged with crispr_highlighting
 
-18
-Cleaned up
 
-21
-Merge red_12507_db_migration
+17-1-2019
 
-22
+Merged with a different project that has been running alongside my development. The other project is dealing with crispr highlighting within the miseq allele frequency tables. Not too many conflicts between the two projects fortunately.
+
+
+
+18-1-2019
+
+Cleaned up after finishing working on empty experiments and merging.
+
+21-1-2019
+
+Merged red_12507_db_migration into live. My project is now officially up and running within the live web application.
+
+
+
+22-1-2019
+
+Now that the new data has been imported to the database, the decision has been made to alter one of the Lims2-Scripts scripts that was being used to calculate the frameshift of the newly imported experiments. The new functionality that will be added will aim to import specific miseq_plates. New miseq plates data will be getting imported, while rerunning older plates will be updating the existing data by deleting the old data and uploading the new versions from the warehouse.
+
+
+
+23-1-2019
+
 Lims2-Scripts
-23
+
+
+
+24-1-2019
+
 Lims2-Scripts
 
-24
-Lims2-Scripts
 
-25
+
+
+25-1-2019
+
 Work from home
 
-28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28-1-2019
+
 Holiday
 
-29
+
+
+29-1-2019
+
 Holiday
 
-30
+
+
+30-1-2019
+
 Lims2-Scripts
 
-31
+
+
+31-1-2019
+
 Lims2-Scripts

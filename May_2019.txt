@@ -1,0 +1,262 @@
+﻿1-5-2019
+
+Last day of work before leaving for Greece. Had a meeting with David and Pete regarding my projection Machine Learning. Took them through my models and talked with them about the datasets. I am very positive about the state that I am leaving everything. I am more or less done with everything. All that's left is the write up for my dissertation and lots of admin work.
+
+
+
+2-5-2019
+
+Annual Leave
+Flying to Greece
+
+
+
+3-5-2019
+
+Worked from home. Researching ways of better interpreting the data produced through the Machine Learning models I have produced. I have found material online. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6-5-2019
+
+Bank holiday
+
+
+
+7-5-2019
+
+Dentist Appointment
+
+
+
+8-5-2019
+
+Working from home. 
+Researching ml applications on biology. I think I have found a very interesting alternative for handling the sequences as unique sets of characters instead of just looking at them as ids and working with their features only.
+
+
+
+9-5-2019
+
+Working from home. Since working remotely is not ideal, I figured I will start working on the write of my dissertation. Hopefully, that will help me in understanding my findings a bit better, since I will be following a structured methodology of recording and analysing my findings this far as part of the write up.
+
+
+
+10-5-2019
+
+Dentist Appointment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13-5-2019
+
+Working from home. 
+Doing work on my write up for my dissertation.
+
+
+
+14-5-2019
+
+Working from home. I had to ask Pete for a day off tomorrow. I need to deal with a few things regarding my military duty. Hopefully I will manage to get things done this week. Pete agreed as long I as I managed to get a certain request done within the day, which I managed. It is so frustrating working from Windows sometimes, but thankfully, everything was finished in time.
+
+
+
+15-5-2019
+
+Ended up managing to finish everything before 10a.m. UK time. Therefore I could work from home normally after all.
+
+
+
+16-5-2019
+
+Working from home.
+Unfortunately I could not do too much to speed up the process yesterday. Looks like I will have to wait even more. Such a frustrating situation.
+
+
+
+17-5-2019
+
+Still stuck in Greece. Hopefully today I will receive the paperwork and manage to book my tickets to get back to the UK. In the meantime, I am still working from home. Thankfully, there is lots of admin work to be done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20-5-2019
+
+Dissertation work. Researched structure and started gathering all the bits and pieces of my work.
+
+
+
+21-5-2019
+Dissertation work.
+
+
+
+22-5-2019
+Dissertation work. 
+
+
+
+23-5-2019
+Dissertation work. 
+
+
+
+24-5-2019
+
+Meeting with the army went great this morning and came back in time to do work from home. Did admin work for the university mostly and continued on the dissertation.
+Tomorrow I am flying back to the UK. Worked from home through the day.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27-5-2019
+
+Back at work. Had a 1 to 1 with my manager to fill him in on all the details regarding the army meetings and also the work I did while away. 
+I have been in contact with one of the scientists from the lab we are collaborating with, regarding creating a dataset for him and running it through my models. This week I will be focusing on that.
+
+
+
+28-5-2019
+
+I have accepted an offer for an extension for another 4 months in the company.
+The new dataset is ready however openstack is offline at the minute. 
+
+
+
+29-5-2019
+
+Created a new instance of the virtual machine I have been using for machine learning, on the new platform the company upgraded to. It takes long to be created so unfortunately I did not have time to run the data through my models.
+
+
+
+30-5-2019
+
+I managed to run the new dataset through my models. Results look interesting. When I come back from my holiday next week I will be meeting with Oli, the scientist who requested the specific dataset, in order to discuss the results and derive meaning.
+
+
+
+31-5-2019
+
+Last day before my holiday and before the official end date of my placement. My new position is going to be Junior Developer. Took time to tidy up all my work a bit more. Worked on the documentation needed from university. 
